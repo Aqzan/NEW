@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"my.uum","l":"Main"},{"p":"my.uum","l":"MessageHandler"},{"p":"my.uum","l":"NewsApiClient"},{"p":"my.uum","l":"s293885_bot"}];updateSearchResults();
